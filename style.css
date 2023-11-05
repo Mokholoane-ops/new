@@ -1,0 +1,18 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(221, 204, 197);
+
+}
+button{
+background-color: rgb(29, 231, 154);background: rgb(0, 204, 255);
+    padding-top: 2px;
+    border-radius: 2px;
+}
+ul li{
+    list-style: none;
+}
+img{
+    width: 25px;
+    float: inline-start;
+    border-radius: 10px;
+}
